@@ -1,6 +1,6 @@
 ![https://github.com/GuanyuQiao98/dual-SCDR](https://img.shields.io/badge/version-1.0.0-blue)
 
-#dual-SCDR: A Dual-Channel Foundation Model for Single-Cell Drug Response Prediction and Gene Co-expression Network Inference
+# dual-SCDR: A Dual-Channel Foundation Model for Single-Cell Drug Response Prediction and Gene Co-expression Network Inference
 
 This repository is the official implementation of dual-SCDR. 
 
