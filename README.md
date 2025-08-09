@@ -49,7 +49,6 @@ This project mainly contains the following parts.
 ├── utils/ # Utility functions and helper classes
 │ └── utils.py # General utility functions
 ├── dataprocess.py # Data preprocessing for dual-SCDR
-├── train.py # Model training script
 ```
 
 
