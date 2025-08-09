@@ -69,8 +69,7 @@ The raw pharmacogenomic dataset can be obtained from the
    Use tools like [Scanpy](https://scanpy.readthedocs.io/) to convert the downloaded data into `.h5ad` format.
 
 3. **Run preprocessing**  
-   ```bash
-   python dataprocess.py
+ >> python  dataprocess.py
 
 
 
